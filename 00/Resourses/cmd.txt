@@ -1,0 +1,4 @@
+find / -user flag00 2>/dev/null
+cat /rofs/usr/sbin/john
+cdiiddwpgswtgt -> cesar -13 -> nottoohardhere
+
